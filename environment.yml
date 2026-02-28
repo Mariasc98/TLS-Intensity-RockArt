@@ -1,0 +1,16 @@
+name: intensity_rockart
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - numpy
+  - rasterio
+  - scikit-learn
+  - matplotlib
+  - open3d
+  - pandas
+  - pip
+  - pip:
+      - pye57
