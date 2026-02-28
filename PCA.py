@@ -173,5 +173,6 @@ if __name__ == "__main__":
         out_path=OUTPUT_PATH
         )
     
-plot_pca_components(pca_img)
-plot_pca_eigenvalues(eigenvalues, var_ratio)
+    plot_pca_components(pca_img)
+    plot_pca_eigenvalues(eigenvalues, var_ratio)
+
