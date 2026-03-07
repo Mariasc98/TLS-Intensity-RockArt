@@ -17,7 +17,7 @@ Within the framework of the MA Thesis, these workflows were tested on TLS datase
 original rock art from later graffiti. The results obtained within this work are not universally generalizable, as intensity behaviour is 
 context-dependent and relies on a series of external factors such as acquisition parameters, wavelenght selection, surface properties 
 or environmental conditions. Therefore, more testing of these workflows in further case studies is needed. 
-The aim of this repository is to make available these scripts to enable reproducibility and further testing of these
+The aim of this repository is to make available the scripts developed within the MA Thesis to enable reproducibility and further testing of these
 methods, contributing future research in TLS intensity analysis.  
 
 ---
@@ -50,7 +50,7 @@ A unified interface that integrates all four transformation methods, allowing th
 - Adjust the number of components for each method.
 - Compare outputs from all methods.
 - Export results as multi-band GeoTIFFs.
-- Save eigenvalues and explained variance as CSV files. 
+- Save eigenvalues and explained variance as CSV files.
 
 ---
 
@@ -120,7 +120,7 @@ rasterization of the point cloud data software such as [CloudCompare](https://ww
 
 ### 3D Workflow Input (point cloud)
 
-.e57 point cloud with XYZ, RGB and Intensity values.
+.e57 point cloud with XYZ, RGB and intensity values.
 
 ---
 
@@ -152,8 +152,7 @@ Workflow:
 
 1. **Load Bands** (4 GeoTIFFs)
 
-2. **Select Methods** (PCA/ICA/MNF/NMF)
-You can select one or multiple methods at once for side-by-side comparison.
+2. **Select Methods** (PCA/ICA/MNF/NMF). You can select one or multiple methods at once for side-by-side comparison.
 
 3. **Set number of components**
 
