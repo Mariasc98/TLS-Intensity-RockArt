@@ -22,6 +22,17 @@ methods, contributing future research in TLS intensity analysis.
 
 ---
 
+## Context
+
+Terrestrial Laser Scanning has become a fundamental tool for the non-invasive documentation of rock art, primarily due to its capacity to capture high-resolution
+three-dimensional geometry. However, beyond geometric information, TLS also records intensity values that reflect the interaction between laser wavelenght and
+surface material properties. Recent research demonstrated the ability of near-infrared (NIR) TLS intensity values to reveal hidden carbon-based pigments
+(Jalandoni, Winans et al. 2021). However, despite their analytical potential, TLS intensity values remain underexplored in rock art research and are rarely integrated into standardized, reproducible analytical workflows. 
+
+Within this framework, the MA Thesis mentioned above aimed to address this research gap by examining TLS intensity values as an analytical and archaeological source of information, rather than merely a technical product of three-dimensional recording. 
+
+---
+
 ## Features
 
 ### 3D Spectral Index Analysis (`3D_indices.py`)
@@ -205,3 +216,8 @@ If you use this code, please cite as follows:
   url = {https://github.com/Mariasc98/TLS-Intensity-RockArt}
 }
 ```
+
+## References
+
+Jalandoni, A, W. Winans, and M. Willis. 2021. "Intensity values of Terrestrial Laser Scans 
+Reveal Hidden Black Rock Art Pigment". *Remote Sensing* 13 (7): 1357. DOI: https//:doi.org/10.3390/rs13071357
