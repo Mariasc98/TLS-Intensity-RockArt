@@ -217,16 +217,20 @@ If you use this code, please cite as follows:
 }
 ```
 
+---
+
 ## Contact
 
-Maria Sotomayor Chicote 
+Maria Sotomayor Chicote
+
 GitHub: @Mariasc98
 
 For questions about the thesis or worklows, please open an issue or contact
 via GitHub. 
-```
 
-## References
+---
+
+## Contact
 
 Jalandoni, A, W. Winans, and M. Willis. 2021. "Intensity values of Terrestrial Laser Scans 
 Reveal Hidden Black Rock Art Pigment". *Remote Sensing* 13 (7): 1357. DOI: https://doi.org/10.3390/rs13071357
