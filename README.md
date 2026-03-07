@@ -150,11 +150,11 @@ python GUI.py
 ```
 Workflow:
 
-1. **Load Bands** (4 GeoTIFFs)
+1. **Load Bands** (4 GeoTIFFs).
 
 2. **Select Methods** (PCA/ICA/MNF/NMF). You can select one or multiple methods at once for side-by-side comparison.
 
-3. **Set number of components**
+3. **Set number of components**.
 
 4. **Run** to generate outputs and preview component layers.
 
