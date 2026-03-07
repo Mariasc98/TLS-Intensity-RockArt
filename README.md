@@ -15,10 +15,12 @@ complementary analytical approaches are implemented:
 
 1. **3D Point Cloud Analysis** -
 Spectral indices applied directly to 3D point clouds.
-2. **2D Raster-based Analysis** -
+
+3. **2D Raster-based Analysis** -
 Statistical transformations (PCA, ICA, MNF, NMF) on four-band raster datasets (R,G,B,Intensity), with two ways to run them:
--***Individual scripts*** for each transformation method.
--***Graphical User Interface (GUI)*** for easy application and comparison of all methods.
+
+-**Individual scripts** for each transformation method.
+-**Graphical User Interface (GUI)** for easy application and comparison of all methods.
 
 Within the framework of the MA Thesis, these workflows were tested on TLS datasets from Peñablanca (Philippines) and Wadi Sura
 (Egypt), demonstrating that intensity values can reveal faint or invisible motifs, separate superimposed pigments, and differentiate
