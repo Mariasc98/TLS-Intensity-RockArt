@@ -180,6 +180,11 @@ Inside the script, set:
 - the path to your .e57 file.
 - the index to compute/visualize.
 
+Then run the script directly, or from the conda environment:
+```
+python 3D_indices.py
+```
+  
 ---
 
 ## Outputs
