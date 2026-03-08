@@ -42,7 +42,7 @@ def compute_indices(df):
 
     return df
 
-# Visualise resulting 3D Point Cloud with Open3D
+# Visualize resulting 3D Point Cloud with Open3D
 def visualize_point_cloud(df, index_column):
     # Convert DataFrame to Open3D PointCloud
     pcd = o3d.geometry.PointCloud()
@@ -72,3 +72,4 @@ if __name__ == "__main__":
     df = load_e57(e57_file)
     df = compute_indices(df)
     visualize_point_cloud(df, index_column)  
+
