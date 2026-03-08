@@ -45,7 +45,7 @@ Compute and visualize spectral indices directly on 3D point clouds:
 
 ### 2D Raster-based Analysis
 
-Four statistical transformation methods are available for analyzing four-band raster datasets (R,G,B,Intensity):
+Four statistical transformation methods are available for analysing four-band raster datasets (R,G,B,Intensity):
 
 - **Principal Component Analysis** (PCA)- (`PCA.py`)
 - **Independent Component Analysis** (ICA)- (`fastICA.py`)
