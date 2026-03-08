@@ -15,7 +15,7 @@ The workflows enable the analysis of TLS intensity data for rock art documentati
 Within the framework of the MA Thesis, these workflows were tested on TLS datasets from Peñablanca (Philippines) and Wadi Sura
 (Egypt), demonstrating that intensity values can reveal faint or invisible motifs, separate superimposed pigments, and differentiate
 original rock art from later graffiti. The results obtained within this work are not universally generalizable, as intensity behaviour is 
-context-dependent and relies on a series of external factors such as acquisition parameters, wavelenght selection, surface properties 
+context dependent and relies on a series of external factors such as acquisition parameters, wavelenght selection, surface properties 
 or environmental conditions. Therefore, more testing of these workflows in further case studies is needed. 
 The aim of this repository is to make available the scripts developed within the MA Thesis to enable reproducibility and further testing of these
 methods, contributing future research in TLS intensity analysis.  
@@ -135,7 +135,7 @@ rasterization of the point cloud data software such as [CloudCompare](https://ww
 
 ---
 
-## How to Run
+## Usage
 
 ### 1. Run the 2D scripts without the GUI
 
