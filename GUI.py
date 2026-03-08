@@ -17,7 +17,7 @@ The transformation algorithms are imported from:
   - MNF.py
 
 Note that while the number of components can be selected within the GUI, the parameters of 
-PCA, ICA, MNF and NMF used for the analysis within the MA Thesis set as the defaults.
+PCA, ICA, MNF and NMF used for the analysis within the MA Thesis are set as the defaults.
 Therefore, to adapt the parameters to specific case studies these need to be changed within 
 this GUI script.
 
@@ -364,4 +364,5 @@ class TransformApp(tk.Tk):
 if __name__ == "__main__":
     app = TransformApp()
     app.mainloop()
+
 
